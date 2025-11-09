@@ -7,7 +7,7 @@ I have tried to investigate the impact of environmental factors and dietary choi
   
 - **Medication-Symptom Relationships:** Is there a discernible connection between the medications patients take and the symptoms they report?
 
-- **Food Categorization:** How can we effectively categorize the myriad food items provided by patients, ensuring meaningful groupings through meticulous data cleaning?
+- **Food Categorization:** How can we effectively categorize the unique food items provided by patients, ensuring meaningful groupings through meticulous data cleaning?
 
 - **Correlation with Environmental Factors:** Are there correlations between patients environmental conditions (pressure, temperature, humidity) and their self-reported disease activity?
 
