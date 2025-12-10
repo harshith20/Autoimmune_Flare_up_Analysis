@@ -5,9 +5,9 @@ I have tried to investigate the impact of environmental factors and dietary choi
 
 - **Exploratory Data Analysis (EDA):** How can we gain a comprehensive understanding of patients data, uncovering hidden insights and patterns?
   
-- **Medication-Symptom Relationships:** Is there a discernible connection between the medications patients take and the symptoms they report?
+- **Medication-Symptom Relationships:** Is there a  connection between the medications patients take and the symptoms they report?
 
-- **Food Categorization:** How can we effectively categorize the unique food items provided by patients, ensuring meaningful groupings through meticulous data cleaning?
+- **Food Categorization:** How can we effectively categorize the unique food items provided by patients, ensuring meaningful groupings through  data cleaning?
 
 - **Correlation with Environmental Factors:** Are there correlations between patients environmental conditions (pressure, temperature, humidity) and their self-reported disease activity?
 
